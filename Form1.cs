@@ -11,17 +11,17 @@ namespace POO
         {
             var num1 = 7;
             var num2 = 5;
-            int resultado = Suma(num1, num2);
+            Operaciones op = new Operaciones();
+            int resultado = op.Suma(num1, num2);
         }
 
-        private int Suma(int x, int y)
+        class Operaciones
         {
-            int totalsuma = x + y;
-            return totalsuma;
+            public int Suma(int x, int y)
+            {
+                int totalsuma = x + y;
+                return totalsuma;
+            }
         }
     }
-        class Operaciones
-        { 
-            
-        }
 }
