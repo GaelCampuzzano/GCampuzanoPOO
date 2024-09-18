@@ -1,0 +1,17 @@
+C:\Users\Gael Campuzano\source\repos\POO\bin\Debug\net8.0-windows\POO.exe
+C:\Users\Gael Campuzano\source\repos\POO\bin\Debug\net8.0-windows\POO.deps.json
+C:\Users\Gael Campuzano\source\repos\POO\bin\Debug\net8.0-windows\POO.runtimeconfig.json
+C:\Users\Gael Campuzano\source\repos\POO\bin\Debug\net8.0-windows\POO.dll
+C:\Users\Gael Campuzano\source\repos\POO\bin\Debug\net8.0-windows\POO.pdb
+C:\Users\Gael Campuzano\source\repos\POO\obj\Debug\net8.0-windows\POO.Form1.resources
+C:\Users\Gael Campuzano\source\repos\POO\obj\Debug\net8.0-windows\POO.csproj.GenerateResource.cache
+C:\Users\Gael Campuzano\source\repos\POO\obj\Debug\net8.0-windows\POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gael Campuzano\source\repos\POO\obj\Debug\net8.0-windows\POO.AssemblyInfoInputs.cache
+C:\Users\Gael Campuzano\source\repos\POO\obj\Debug\net8.0-windows\POO.AssemblyInfo.cs
+C:\Users\Gael Campuzano\source\repos\POO\obj\Debug\net8.0-windows\POO.csproj.CoreCompileInputs.cache
+C:\Users\Gael Campuzano\source\repos\POO\obj\Debug\net8.0-windows\POO.sourcelink.json
+C:\Users\Gael Campuzano\source\repos\POO\obj\Debug\net8.0-windows\POO.dll
+C:\Users\Gael Campuzano\source\repos\POO\obj\Debug\net8.0-windows\refint\POO.dll
+C:\Users\Gael Campuzano\source\repos\POO\obj\Debug\net8.0-windows\POO.pdb
+C:\Users\Gael Campuzano\source\repos\POO\obj\Debug\net8.0-windows\POO.genruntimeconfig.cache
+C:\Users\Gael Campuzano\source\repos\POO\obj\Debug\net8.0-windows\ref\POO.dll
