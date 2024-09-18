@@ -11,7 +11,7 @@ namespace POO
         {
             var num1 = 7;
             var num2 = 5;
-            int resultado = Suma(num1, num2)
+            int resultado = Suma(num1, num2);
         }
 
         private int Suma(int x, int y)
@@ -20,4 +20,8 @@ namespace POO
             return totalsuma;
         }
     }
+        class Operaciones
+        { 
+            
+        }
 }
