@@ -16,8 +16,8 @@ namespace POO
 
         private int Suma(int x, int y)
         {
-            int total suma = x + y;
-            return toalsuma;
+            int totalsuma = x + y;
+            return totalsuma;
         }
     }
 }
